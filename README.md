@@ -1,6 +1,6 @@
 # Description 💬
 
-<img src='icon.png'>
+<img src='icon.png' width='100'>
 
 Created an extension which provides weather data for various locations around the world using the RAPID API.
 
