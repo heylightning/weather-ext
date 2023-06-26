@@ -1,6 +1,6 @@
 # Description
 
-Created an extension which provides weather data for various locations around the world using the OpenWeatherMap API.
+Created an extension which provides weather data for various locations around the world using the RAPID API.
 
 ## Follow the following steps to run this extension in your browser!
 
